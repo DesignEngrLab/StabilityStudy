@@ -1,0 +1,14 @@
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\BasicDemo.exe.config
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\BasicDemo.exe
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\BasicDemo.pdb
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\BulletSharp.dll
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\MIConvexHull.dll
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\OpenTK.dll
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\TessellationAndVoxelizationGeometryLibrary.dll
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\MIConvexHull.pdb
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\OpenTK.xml
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\TessellationAndVoxelizationGeometryLibrary.pdb
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\obj\x64\Debug\BasicDemo.exe
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\obj\x64\Debug\BasicDemo.pdb
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\StarMath.dll
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Debug\StarMath.pdb

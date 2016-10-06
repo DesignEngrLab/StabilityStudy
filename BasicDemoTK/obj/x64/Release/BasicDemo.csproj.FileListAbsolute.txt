@@ -1,0 +1,12 @@
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\BasicDemo.exe.config
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\BasicDemo.exe
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\BasicDemo.pdb
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\BulletSharp.dll
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\MIConvexHull.dll
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\OpenTK.dll
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\TessellationAndVoxelizationGeometryLibrary.dll
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\MIConvexHull.pdb
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\OpenTK.xml
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\bin\x64\Release\TessellationAndVoxelizationGeometryLibrary.pdb
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\obj\x64\Release\BasicDemo.exe
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemo\obj\x64\Release\BasicDemo.pdb

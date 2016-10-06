@@ -1,0 +1,2 @@
+Z:\Windows.Documents\Desktop\StabilityStudy\BasicDemoDX\obj\x86\Debug\BasicDemo.csprojResolveAssemblyReference.cache
+C:\WeifengDOC\StabilityStudy\BasicDemoDX\obj\x86\Debug\BasicDemo.csprojResolveAssemblyReference.cache
